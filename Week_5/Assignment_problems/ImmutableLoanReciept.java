@@ -164,7 +164,7 @@ public class Main {
                 "LIB-8841",
                 new String[]{
                     "BK-100",
-                    "BK-101"
+                    "BK-101"j
                 }
             );
 
