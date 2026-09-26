@@ -140,7 +140,6 @@ public class Main {
                 reserveIfSupported(d)
         );
 
-        // Upcasting
         LibraryItem ref = t;
 
         System.out.println(
